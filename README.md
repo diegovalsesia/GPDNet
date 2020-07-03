@@ -1,5 +1,4 @@
 # Learning Graph-Convolutional Representations for Point Cloud Denoising (ECCV 2020)
-Code for ECCV 2020 paper
 Bibtex entry:
 ```
 @inproceedings{pistilli2020learning,
