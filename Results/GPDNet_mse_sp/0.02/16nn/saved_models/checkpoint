@@ -1,0 +1,2 @@
+model_checkpoint_path: "/media/HDD/valsesia/GPDNet/Results/GPDNet_mse_sp/0.02/16nn/saved_models/model.ckpt"
+all_model_checkpoint_paths: "/media/HDD/valsesia/GPDNet/Results/GPDNet_mse_sp/0.02/16nn/saved_models/model.ckpt"

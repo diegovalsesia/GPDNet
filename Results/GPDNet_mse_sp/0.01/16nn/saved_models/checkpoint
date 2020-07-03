@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/valsesia/Scripts/Denoising_point_cloud/Results/finetune_nn_mse_c2c/0.01/16nn/saved_models/model.ckpt"
+all_model_checkpoint_paths: "/home/valsesia/Scripts/Denoising_point_cloud/Results/finetune_nn_mse_c2c/0.01/16nn/saved_models/model.ckpt"
